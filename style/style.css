@@ -7,6 +7,6 @@
 }
 
 .bg-image {
-    background: url(../images/Path15.png) no-repeat center center/cover;
+    background: url(./images/Path15.png) no-repeat center center/cover;
     padding: 15% 0;
 }
